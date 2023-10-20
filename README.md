@@ -5,7 +5,6 @@
 - 😄 Pronouns: he/him
 
 - 🇺🇦 
-- We will win!
 
 
 <!--
