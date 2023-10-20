@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🌱 I’m currently learning  game journalism and game developing (Unity/Godot)
+⚡ Fun fact: Java, PHP, C#
+😄 Pronouns: he/him
+
+🇺🇦 
+We will win!
+
+
 <!--
 **stardrive7/stardrive7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
