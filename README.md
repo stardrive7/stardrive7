@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🌱 I’m currently learning  game journalism and game developing (Unity/Godot)
-⚡ Fun fact: Java, PHP, C#
-😄 Pronouns: he/him
+- 🌱 I’m currently learning  game journalism and game developing (Unity/Godot)
+- ⚡ Fun fact: Java, PHP, C#
+- 😄 Pronouns: he/him
 
-🇺🇦 
-We will win!
+- 🇺🇦 
+- We will win!
 
 
 <!--
